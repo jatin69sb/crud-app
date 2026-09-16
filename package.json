@@ -1,0 +1,14 @@
+{
+  "name": "task-manager-crud",
+  "version": "1.0.0",
+  "description": "A simple full-stack CRUD app (Node.js + Express + SQLite) for managing tasks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+    
+  }
+}
